@@ -1,1 +1,2 @@
-# First GitHub Repo
+# git-project
+The first git project for me!
